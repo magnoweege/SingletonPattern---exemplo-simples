@@ -1,5 +1,5 @@
 # SingletonPattern
- Exemplo simples de um padrão singleton para fila de imopressões
+ Exemplo simples de um padrão singleton para fila de impressões
 
 <b>Singleton é um padrão de criação que abstraem o processo de instanciação.</b>
 
