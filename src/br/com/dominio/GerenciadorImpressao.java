@@ -13,7 +13,7 @@ public class GerenciadorImpressao {
 	//Este metodo retorna a variavel com a unica instancia criada.
 	public static GerenciadorImpressao getInstance() {
 		//se for nulo é criado uma instancia e retornado essa referencia. Caso contrario retorne a instancia que já existe.
-		// Assim sendo todos objetos ocuparam a mesma instancia.
+		// Assim sendo todos objetos ocuparão a mesma instancia.
 		if (gerenciadorImpressao == null)
 			gerenciadorImpressao = new GerenciadorImpressao();
 		
